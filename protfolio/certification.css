@@ -1,0 +1,13 @@
+/* CSS for Certificates */
+
+div img{
+    width:300px;
+    height: auto;
+    margin:50px 70px;
+    transition:all 0.5s ease-in-out;
+}
+
+/* CSS for Certificates */
+div img:hover{
+    transform: scale(1,2)
+}
